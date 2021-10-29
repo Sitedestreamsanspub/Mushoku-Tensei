@@ -1,1 +1,11 @@
+.b{
+  background-color: black;
+  border: solid;
+  color: red;
+  text-align: center;
+  font-size: 30px;
+  margin: 2px 4px;
+  border-radius: 6rem;
+}
+
 
